@@ -1,4 +1,4 @@
-# Nineteen vectors and a certificate of their phase-retrieval injectivity in ℂ⁶
+# Nineteen vectors and their phase-retrieval injectivity in ℂ⁶
 
 Companion repository for the note [`nineteen_c6.pdf`](nineteen_c6.pdf).
 

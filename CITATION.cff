@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this frame or certificate, please cite the note below."
-title: "Nineteen vectors and a certificate of their phase-retrieval injectivity in C^6"
+title: "Nineteen vectors and their phase-retrieval injectivity in C^6"
 type: software
 authors:
   - family-names: "Kim"
@@ -16,7 +16,7 @@ keywords:
   - exact certificate
 preferred-citation:
   type: article
-  title: "Nineteen vectors and a certificate of their phase-retrieval injectivity in C^6"
+  title: "Nineteen vectors and their phase-retrieval injectivity in C^6"
   authors:
     - family-names: "Kim"
       given-names: "Minwook"
