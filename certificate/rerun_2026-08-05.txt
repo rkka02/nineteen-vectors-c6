@@ -1,0 +1,13 @@
+EXACT-CERTIFIED
+d=6, m=19
+zeta=-7/25 + 24*I/25
+r=(-5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5)
+s=(-5, -4, -3, -2, -1, 1, 3, 4)
+g(t) coefficients, ascending=[-1440, -1008, 1546, 1183, -91, -182, -16, 7, 1]
+sin(k phi), k=1,...,5=(24/25, -336/625, -10296/15625, 354144/390625, 1476984/9765625)
+quadratic equations=5
+eliminant degree=14
+eliminant squarefree=True
+Sturm variations: V(-infinity)=7, V(+infinity)=7
+real roots=0
+rank_R L_A=19

@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this frame or certificate, please cite the note below."
+title: "Nineteen vectors and a certificate of their phase-retrieval injectivity in C^6"
+type: software
+authors:
+  - family-names: "Kim"
+    given-names: "Minwook"
+    email: "brian10kim22@kaist.ac.kr"
+    affiliation: "KAIST (Korea Advanced Institute of Science and Technology), Daejeon, South Korea"
+date-released: "2026-08-05"
+repository-code: "https://github.com/rkka02/nineteen-vectors-c6"
+license: MIT
+keywords:
+  - phase retrieval
+  - frame theory
+  - exact certificate
+preferred-citation:
+  type: article
+  title: "Nineteen vectors and a certificate of their phase-retrieval injectivity in C^6"
+  authors:
+    - family-names: "Kim"
+      given-names: "Minwook"
+      affiliation: "KAIST (Korea Advanced Institute of Science and Technology), Daejeon, South Korea"
+  year: 2026
