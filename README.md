@@ -50,4 +50,5 @@ candidate frames and in the preparation of the note and this repository.
 ## License
 
 MIT ([`LICENSE`](LICENSE)); the note text (`nineteen_c6.tex`/`.pdf`) is CC BY 4.0.
-Cite via [`CITATION.cff`](CITATION.cff).
+Cite via [`CITATION.cff`](CITATION.cff). This repository is archived at
+[doi:10.5281/zenodo.21798931](https://doi.org/10.5281/zenodo.21798931).

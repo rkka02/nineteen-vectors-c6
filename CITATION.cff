@@ -9,6 +9,7 @@ authors:
     affiliation: "KAIST (Korea Advanced Institute of Science and Technology), Daejeon, South Korea"
 date-released: "2026-08-05"
 repository-code: "https://github.com/rkka02/nineteen-vectors-c6"
+doi: 10.5281/zenodo.21798931
 license: MIT
 keywords:
   - phase retrieval
