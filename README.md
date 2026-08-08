@@ -9,6 +9,15 @@ scalar. Hence m_ℂ(6) ≤ 19 = 4d−5, one below the generic count 4d−4;
 combined with the Wang–Xu lower bound m_ℂ(6) ≥ 18, the minimal
 measurement number in dimension six is 18 or 19.
 
+## Note
+
+This frame and its certificate were extracted from a larger project on
+the 4d−5 measurement problem. The full development — additional
+certified frames in d = 4, 7, 8, 10, a Lean 4 formalization, and the
+classification preprint — lives at
+**[github.com/rkka02/phase-retrieval-4d-5](https://github.com/rkka02/phase-retrieval-4d-5)**
+(archived at [doi:10.5281/zenodo.21764847](https://doi.org/10.5281/zenodo.21764847)).
+
 ## The certificate
 
 After the elementary reduction proved in the note (§2), phase retrieval
@@ -32,15 +41,6 @@ python3 certificate/verify_exact.py
 
 Expected last lines: `eliminant degree=14`, `squarefree=True`,
 `real roots=0`, `rank_R L_A=19`.
-
-## Provenance
-
-This frame and its certificate were extracted from a larger project on
-the 4d−5 measurement problem. The full development — additional
-certified frames in d = 4, 7, 8, 10, a Lean 4 formalization, and the
-classification preprint — lives at
-**[github.com/rkka02/phase-retrieval-4d-5](https://github.com/rkka02/phase-retrieval-4d-5)**
-(archived at [doi:10.5281/zenodo.21764847](https://doi.org/10.5281/zenodo.21764847)).
 
 ## AI assistance
 
